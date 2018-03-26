@@ -1,0 +1,26 @@
+Number_realizations=	2
+N_days=		200
+Doctors=	6
+Nurses=		12
+Patients=	20
+Tray= 		20
+Wall= 		60
++++++++
+Carrying_capacity	1e+6	1e+6	1e+10	1e+4	1e+4
++++++++
+Matrix_number_inter_DNPTW	20	16	3.75	0	5.64
+Matrix_number_inter_DNPTW	16.	48	11.86	6	20.06
+Matrix_number_inter_DNPTW	3.75	11.86	4	1	16
+Matrix_number_inter_DNPTW	0	6	1	2	0
+Matrix_number_inter_DNPTW	5.64	20.06	16	0	0
++++++
+Matrix_proba_inter_DNPTW	0.04	0.08	0.32	0.	0.106	
+Matrix_proba_inter_DNPTW	0.08	0.15	0.17	0.05	0.106
+Matrix_proba_inter_DNPTW	0.17	0.17	0.05	0.1	0.106
+Matrix_proba_inter_DNPTW	0.	0.05	0.1	0.11	0.	
+Matrix_proba_inter_DNPTW	0.106	0.106	0.106	0.	0.
++++++
+Number_Clean	2	6	2	1	10
+Level_Clean	0.6	0.6	0.6	0.95	0.95
+Time_distrib_Clean[8hours]	1	1	1	1	1	1	1	1
+
